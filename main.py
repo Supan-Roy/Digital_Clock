@@ -3,7 +3,7 @@ import time
 import requests
 
 # Weather
-API_KEY = "db78aafd22380f9bd49c55d0365211f5"  # Powered by OpenWeatherMap
+API_KEY = "USE YOUR API KEY"  # Powered by OpenWeatherMap
 CITY = "Bagerhat"
 
 def get_temperature():
